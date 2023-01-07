@@ -1,0 +1,33 @@
+{
+  "clientes": [
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Gonzalo",
+      "empresa": "Maximiliano srl",
+      "email": "gonzalo.arra@gmail.com",
+      "telefono": "23123123",
+      "notas": "Hola mundo en jazmen",
+      "id": 6
+    }
+  ]
+}
